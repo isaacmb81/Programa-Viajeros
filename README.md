@@ -1,4 +1,4 @@
-#Presentación Aplicación
+# Presentación Aplicación
 
 El programa calculará los costes de un viaje de hasta 5 personas, repartiendolos a partes iguales estos costes. Puede que un viajero no exista, otro que haya pagado de más y otro que deba dinero.
 
